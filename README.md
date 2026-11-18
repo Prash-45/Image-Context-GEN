@@ -1,4 +1,6 @@
-An Experimental Study of CNN--LSTM, Attention-Based Captioning, and Transformer Decoding
+# Image Context Generator
+
+**An Experimental Study of CNN--LSTM, Attention-Based Captioning, and Transformer Decoding**
 
 The project was developed in three iterations. Each version keeps a
 pretrained ResNet-50 as the visual feature extractor while changing
